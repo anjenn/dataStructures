@@ -1,0 +1,2 @@
+- Currently preparing for Software test in Samsung, in python
+- Uploading problems solved on "Python Data Structures & Algorithms + LEETCODE Exercises" course on Udemy
